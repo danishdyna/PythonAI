@@ -8,7 +8,8 @@ Repo for testing Python AI Scripts
 *  C:\> py --version
 * https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe
 * https://code.visualstudio.com/Download   (VSCodeUserSetup-x64-1.89.1.exe)
-* vscode:extension/GitHub.vscode-pull-request-github 
+* vscode:extension/GitHub.vscode-pull-request-github
+* vscode:extension/GitHub.copilot
 * https://ollama.com/download
 * https://ollama.com/blog/embedding-models
 ## AI Scripts
