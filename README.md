@@ -1,5 +1,3 @@
-# hello-world
+# Python AI Scripts
 
-Repo for testing
-
-Notes in readme branch - readme3
+Repo for testing Python AI Scripts
