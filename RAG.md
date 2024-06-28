@@ -1,8 +1,5 @@
 # RAG 
-Retriaval Augmented Generation
+Retrieval Augmented Generation
 ## References
-Google Colab: https://tinyurl.com/mr2mf65n
-llama-Index RAG:    • Talk to Your Documents, Powered by Ll...  
-How to chunk Documents:    • LangChain: How to Properly Split your...   
-llama-Index Github: https://github.com/jerryjliu/llama_index
-## Next Step 
+RAG Inspiration: https://www.youtube.com/watch?v=WL7V9JUy2sE&t=0s (APIKey)
+ 
